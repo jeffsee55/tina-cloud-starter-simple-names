@@ -1,6 +1,7 @@
 ---
 blocks:
-  - headline: Welcome to the Tina Starter
+  - tagline: Here wo go.
+    headline: Welcome To Jeff's Site
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
@@ -48,3 +49,4 @@ blocks:
     color: tint
     _template: features
 ---
+
